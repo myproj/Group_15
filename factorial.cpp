@@ -9,7 +9,7 @@ int factorial(int n){
 	{
 	std::cout<<"Negative Number entered| Re-enter the number"<<std::endl;
 	std::cin>>n;	
-	std::cout<<"Successfully Changed"<<std::endl;
+	std::cout<<"Successfully Changed!"<<std::endl;
 } 
 
     if(n!=1){
